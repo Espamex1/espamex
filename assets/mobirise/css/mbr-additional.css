@@ -1415,12 +1415,12 @@ body {
 }
 .cid-ruJ4XBkLWD .navbar {
   padding: .5rem 0;
-  background: #3a8b21;
+  background: #0f7699;
   transition: none;
   min-height: 77px;
 }
 .cid-ruJ4XBkLWD .navbar-dropdown.bg-color.transparent.opened {
-  background: #3a8b21;
+  background: #0f7699;
 }
 .cid-ruJ4XBkLWD a {
   font-style: normal;
@@ -1511,7 +1511,7 @@ body {
   padding-bottom: 0;
 }
 .cid-ruJ4XBkLWD .dropdown .dropdown-menu {
-  background: #3a8b21;
+  background: #0f7699;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1826,7 +1826,7 @@ body {
 .cid-ruPe4LWPW1 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: #3a8b21;
+  background: #ffffff;
 }
 .cid-ruPe4LWPW1 .images-container.container-fluid {
   padding: 0;
@@ -1873,45 +1873,54 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-ruOoh8XhMk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #3a8b21;
+.cid-ruTrNAv4nC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
 }
-.cid-ruOoh8XhMk .mbr-slider .carousel-control {
+.cid-ruTrNAv4nC .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-ruOoh8XhMk .mbr-slider .carousel-control-prev {
+.cid-ruTrNAv4nC .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-ruOoh8XhMk .mbr-slider .carousel-control-next {
+.cid-ruTrNAv4nC .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-ruOoh8XhMk .mbr-slider .modal-body .close {
+.cid-ruTrNAv4nC .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-ruOoh8XhMk .mbr-gallery-item > div::before {
+.cid-ruTrNAv4nC .row > .row {
+  display: block;
+}
+.cid-ruTrNAv4nC .mbr-gallery-item {
+  width: 100%;
+}
+.cid-ruTrNAv4nC .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #0f7699;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #0f7699, #073b4c) !important;
 }
-.cid-ruOoh8XhMk .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-ruTrNAv4nC .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-ruTrNAv4nC .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-ruOoh8XhMk .mbr-gallery-item > div:hover:before {
-  opacity: 0.8 !important;
+.cid-ruTrNAv4nC .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
 }
-.cid-ruOoh8XhMk .mbr-gallery-title {
+.cid-ruTrNAv4nC .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1921,7 +1930,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-ruOoh8XhMk .mbr-gallery-title:before {
+.cid-ruTrNAv4nC .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1929,48 +1938,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  opacity: 0.8;
+  background: #0f7699 !important;
+  opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-ruOqYLuEco {
-  background: #232323;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #232323, #3a8b21);
-}
-.cid-ruOqYLuEco .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-ruOqYLuEco .video-block {
-    width: 100% !important;
-  }
-}
-.cid-ruOrdrpfa0 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-ruOrdrpfa0 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-ruOrdrpfa0 .section-text {
-  padding: 2rem 0;
-}
-.cid-ruOrdrpfa0 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-ruOrdrpfa0 .inner-container {
-    width: 100% !important;
-  }
+  background: linear-gradient(to left, #0f7699, #073b4c) !important;
 }
 .cid-ruOrTq588z {
   padding-top: 45px;
@@ -2048,7 +2020,7 @@ body {
   padding-bottom: 2.5rem;
 }
 .cid-ruJ6kTiZSt .mbr-text {
-  color: #c1c1c1;
+  color: #ffffff;
   margin: 0;
   padding-top: 0.5rem;
   text-align: left;
