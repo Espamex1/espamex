@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESPAMEX",
-    "currentPage": "espamexgrúas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "espamexgrúas.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "ESPAMEX",
